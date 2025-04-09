@@ -30,4 +30,4 @@ This project was created to practice responsive web design techniques and to cre
 1. **Clone the repository**:
    Open your terminal or command prompt and run:
    ```bash
-   git clone https://github.com/yourusername/flower-shop-ecommerce.git
+   git clone https://github.com/Nada-Mohamed10/E-Commerce-Flower-Shop-Website.git
